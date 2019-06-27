@@ -1,6 +1,5 @@
 # -*- coding: utf8 -*-
 # C:\Python27\python network_analysis.py 211.162.70.229 1 100 2 # 此服务器丢包
-
 import sys
 import time
 from time import sleep, ctime
