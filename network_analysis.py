@@ -1,8 +1,5 @@
 # -*- coding: utf8 -*-
 # C:\Python27\python network_analysis.py 211.162.70.229 1 100 2 # 此服务器丢包
-# baidu:  220.181.38.148
-# tencent: 203.205.158.34
-
 
 import sys
 import time
