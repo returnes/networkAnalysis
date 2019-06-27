@@ -7,7 +7,6 @@ from time import sleep, ctime
 
 import signal
 import threading
-
 from scapy.all import *
 from scapy.layers.inet import ICMP, IP
 import matplotlib.pyplot as plt
