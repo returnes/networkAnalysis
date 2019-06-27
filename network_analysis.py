@@ -24,7 +24,6 @@ handle = open("null", 'w')
 out_list = []
 in_list = []
 
-
 def output():
     print(len(out_list), len(in_list))
     # 将丢包延时时间置为负值添加到传回类表相应位置
